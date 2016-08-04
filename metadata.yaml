@@ -1,0 +1,56 @@
+_repo: Sybil-Or-The-Two-Nations_3760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: "Sybil, or The Two Nations is an 1845 novel by Benjamin Disraeli. Published\
+  \ in the same year as Friedrich Engels's The Condition of the Working Class in England\
+  \ in 1844, Sybil traces the plight of the working classes of England. Disraeli was\
+  \ interested in dealing with the horrific conditions in which the majority of England's\
+  \ working classes lived — or, what is generally called the Condition of England\
+  \ question.\nThe book is a roman à thèse, or a novel with a thesis — which was meant\
+  \ to create a furor over the squalor that was plaguing England's working class cities.\n\
+  Disraeli's novel was made into a silent film called Sybil in 1921, starring Evelyn\
+  \ Brent and Cowley Wright.\nDisraeli's interest in this subject stemmed from his\
+  \ interest in the Chartist movement, a working-class political reformist movement\
+  \ that sought universal male suffrage and other parliamentary reforms. (Thomas Carlyle\
+  \ sums up the movement in his 1839 book \"Chartism.\") Chartism failed as a parliamentary\
+  \ movement (three petitions to Parliament were rejected); however, five of the \"\
+  Six Points\" of Chartism would become a reality within a century of the group's\
+  \ formation.\nChartism demanded:\nUniversal suffrage for men\nSecret Ballot\nRemoval\
+  \ of property requirements for Parliament\nSalaries for Members of Parliament (MPs)\n\
+  Equal Electoral districts\nAnnually elected Parliament\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3760'
+  wikidata: Q3506752
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'Chartism -- Fiction'
+- GITenberg
+title: Sybil, Or, The Two Nations
+url: http://www.gutenberg.org/ebooks/3760
+wikipedia:
+- https://en.wikiquote.org/wiki/Sybil_(novel)
+- https://fr.wikipedia.org/wiki/Sybil_(roman,_1845)
+- https://en.wikipedia.org/wiki/Sybil_(novel)
