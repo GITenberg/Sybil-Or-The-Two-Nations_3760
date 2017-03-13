@@ -1,5 +1,8 @@
 _repo: Sybil-Or-The-Two-Nations_3760
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Disraeli, Benjamin, Earl of Beaconsfield
@@ -27,6 +30,8 @@ description: "Sybil, or The Two Nations is an 1845 novel by Benjamin Disraeli. P
   \ of property requirements for Parliament\nSalaries for Members of Parliament (MPs)\n\
   Equal Electoral districts\nAnnually elected Parliament\n\n\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3760#Sybil-Or-The-Two-Nations
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
