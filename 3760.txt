@@ -191,7 +191,7 @@ should meet here. I am to call for you, mind."
 "How shall we all feel this time to-morrow?" said Egremont, smiling.
 
 "The happiest fellow at this moment must be Cockie Graves," said Lord
-Milford. "He can have no suspense I have been looking over his book, and
+Milford. "He can have no suspense. I have been looking over his book, and
 I defy him, whatever happens, not to lose."
 
 "Poor Cockie." said Mr Berners; "he has asked me to dine with him at the
@@ -384,7 +384,7 @@ sporting world have hung like eagles, will be recorded in the fleeting
 tablets of the past. But what minutes! Count them by sensation and not
 by calendars, and each moment is a day and the race a life. Hogarth in
 a coarse and yet animated sketch has painted "Before" and "After." A
-creative spirit of a higher vein might develope the simplicity of the
+creative spirit of a higher vein might develop the simplicity of the
 idea with sublimer accessories. Pompeius before Pharsalia, Harold before
 Hastings, Napoleon before Waterloo, might afford some striking contrasts
 to the immediate catastrophe of their fortunes. Finer still the inspired
@@ -686,9 +686,9 @@ were afraid of his eloquence, "the glory of his order and the shame,"
 shut out from Parliament, found vent in those writings which recalled
 to the English people the inherent blessings of their old free monarchy,
 and painted in immortal hues his picture of a patriot king, the spirit
-that he raised at length touched the heart of Carteret born a whig, yet
+that he raised at length touched the heart of Carteret, born a whig, yet
 sceptical of the advantages of that patrician constitution which made
-the Duke of Newcastle the most incompetent of men, but the chosen leader
+the Duke of Newcastle, the most incompetent of men, but the chosen leader
 of the Venetian party, virtually sovereign of England. Lord Carteret had
 many brilliant qualities: he was undaunted, enterprising, eloquent; had
 considerable knowledge of continental politics, was a great linguist,
@@ -780,7 +780,7 @@ commercial treaties of '87 were struck in the same mint, and are notable
 as the first effort made by the English government to emancipate the
 country from the restrictive policy which had been introduced by the
 "glorious revolution;" memorable epoch, that presented England at the
-same time with a corn law and a public debt.. But on no subject was the
+same time with a corn law and a public debt. But on no subject was the
 magnetic influence of the descendant of Sir William Petty more decided,
 than in the resolution of his pupil to curb the power of the patrician
 party by an infusion from the middle classes into the government of
@@ -9632,7 +9632,7 @@ distinction: but a new disposition of wealth may remove even this."
 
 "Ah! you want to get at our estates," said Lord Valentine smiling; "but
 the effort on your part may resolve society into its original elements,
-and the old sources of distinction may again develope themselves."
+and the old sources of distinction may again develop themselves."
 
 "Tall barons will not stand against Paixhans rockets," said the
 delegate. "Modern science has vindicated the natural equality of man."
@@ -13443,7 +13443,7 @@ with some companions worthy of such a pair, were dancing a new Mazurka
 before the admiring assembly at Deloraine House. The ball was in the
 statue gallery illumined on this night in the Russian fashion, which
 while it diffused a brilliant light throughout the beautiful chamber,
-was peculiarly adapted to develope the contour of the marble forms of
+was peculiarly adapted to develop the contour of the marble forms of
 grace and loveliness that were ranged around.
 
 "Where is Arabella?" enquired Lord Marney of his mother, "I want to
@@ -17884,7 +17884,7 @@ again into a serf.
 
 It is nearly fourteen years ago, in the popular frenzy of a mean and
 selfish revolution which neither emancipated the Crown nor the People,
-that I first took the occasion to intimate and then to develope to the
+that I first took the occasion to intimate and then to develop to the
 first assembly of my countrymen that I ever had the honour to address,
 these convictions. They have been misunderstood as is ever for a season
 the fate of Truth, and they have obtained for their promulgator much
